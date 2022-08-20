@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://an-ding-s.github.io/2022/08/18/%E6%AC%A0%E4%BA%86%E4%B8%80%E5%B1%81%E8%82%A1%E5%80%BA/</loc>
+    
+    <lastmod>2022-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://an-ding-s.github.io/2022/08/18/love/</loc>
+    
+    <lastmod>2022-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://an-ding-s.github.io/tags/index.html</loc>
     
     <lastmod>2022-08-20</lastmod>
@@ -20,18 +38,9 @@
   </url>
   
   <url>
-    <loc>https://an-ding-s.github.io/2022/08/18/love/</loc>
+    <loc>https://an-ding-s.github.io/custom-name/index.html</loc>
     
-    <lastmod>2022-08-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://an-ding-s.github.io/2022/08/18/%E6%AC%A0%E4%BA%86%E4%B8%80%E5%B1%81%E8%82%A1%E5%80%BA/</loc>
-    
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -48,6 +57,13 @@
   
   <url>
     <loc>https://an-ding-s.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://an-ding-s.github.io/tags/%E6%83%85%E6%84%9F/</loc>
     <lastmod>2022-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
