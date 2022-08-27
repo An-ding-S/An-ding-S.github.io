@@ -106,4 +106,82 @@
         <tag>玩机技巧</tag>
       </tags>
   </entry>
+  <entry>
+    <title>wget语法</title>
+    <url>/2022/08/24/wget%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<ul>
+<li><h2 id="wget的一些常用命令"><a href="#wget的一些常用命令" class="headerlink" title="wget的一些常用命令"></a>wget的一些常用命令</h2></li>
+<li><ol>
+<li>-b 后台下载模式</li>
+</ol>
+</li>
+<li><ol start="2">
+<li>-P 下载到指定目录</li>
+</ol>
+</li>
+<li><ol start="3">
+<li>-t 最大连接尝试次数</li>
+</ol>
+</li>
+<li><ol start="4">
+<li>-c 断点续传</li>
+</ol>
+</li>
+<li><ol start="5">
+<li>-p 下载页面所有资源（包括视频，图片）</li>
+</ol>
+</li>
+<li><ol start="6">
+<li>-r 递归下载<span id="more"></span></li>
+</ol>
+</li>
+<li><h2 id="vim-常用命令的三种模式"><a href="#vim-常用命令的三种模式" class="headerlink" title="vim 常用命令的三种模式"></a>vim 常用命令的三种模式</h2></li>
+<li><h3 id="命令模式："><a href="#命令模式：" class="headerlink" title="命令模式："></a>命令模式：</h3></li>
+<li><p><strong>dd</strong>(删除&amp;剪切当前光标整行）</p>
+</li>
+<li><p><strong>5dd</strong>(删除&amp;剪切当前光标开始的5行）</p>
+</li>
+<li><p><strong>yy</strong>(复制当前光标整行）</p>
+</li>
+<li><p><strong>5yy</strong>（复制当前光标开始的5行）</p>
+</li>
+<li><p><strong>n</strong>（显示搜索命令定位到的下一个字符串）</p>
+</li>
+<li><p><strong>N</strong>（显示搜索命令定位到的上一个字符串）</p>
+</li>
+<li><p><strong>u</strong>（撤销上一步的操作）</p>
+</li>
+<li><p><strong>p</strong>（将之前删除（dd）或复制（yy）过的数据粘贴到光标后面）</p>
+</li>
+<li><h3 id="末行模式"><a href="#末行模式" class="headerlink" title="末行模式"></a>末行模式</h3></li>
+<li><p>:w              保存   </p>
+</li>
+<li><p>:q              退出   </p>
+</li>
+<li><p>:q!             强制退出（放弃对文档的修改内容）   </p>
+</li>
+<li><p>:wq!            强制保存退出   </p>
+</li>
+<li><p>:set nu       显示行号   </p>
+</li>
+<li><p>:set nonu     不显示行号   </p>
+</li>
+<li><p>:命令            执行该命令   </p>
+</li>
+<li><p>:整数            跳转到该行   </p>
+</li>
+<li><p>:s&#x2F;one&#x2F;two      将当前光标所在行的第一个one替换成two   </p>
+</li>
+<li><p>:s&#x2F;one&#x2F;two&#x2F;g    将当前光标所在行的所有one替换成two   </p>
+</li>
+<li><p>:%s&#x2F;one&#x2F;two&#x2F;g   将全文中的所有one替换成two</p>
+</li>
+<li><p>?字符串          在文本中从下至上搜索该字符串   </p>
+</li>
+<li><p>&#x2F;字符串          在文本中从上至下搜索该字符串</p>
+</li>
+<li><h3 id="输入模式：即打开文本按键（a-i-o-。即可进入编辑模式。"><a href="#输入模式：即打开文本按键（a-i-o-。即可进入编辑模式。" class="headerlink" title="输入模式：即打开文本按键（a,i,o)。即可进入编辑模式。"></a>输入模式：即打开文本按键（a,i,o)。即可进入编辑模式。</h3></li>
+</ul>
+]]></content>
+  </entry>
 </search>
