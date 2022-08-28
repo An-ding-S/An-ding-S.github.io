@@ -107,8 +107,8 @@
       </tags>
   </entry>
   <entry>
-    <title>wget语法</title>
-    <url>/2022/08/24/wget%E8%AF%AD%E6%B3%95/</url>
+    <title>Linux语法</title>
+    <url>/2022/08/24/Linux%E8%AF%AD%E6%B3%95/</url>
     <content><![CDATA[<ul>
 <li><h2 id="wget的一些常用命令"><a href="#wget的一些常用命令" class="headerlink" title="wget的一些常用命令"></a>wget的一些常用命令</h2></li>
 <li><ol>
@@ -183,5 +183,8 @@
 <li><h3 id="输入模式：即打开文本按键（a-i-o-。即可进入编辑模式。"><a href="#输入模式：即打开文本按键（a-i-o-。即可进入编辑模式。" class="headerlink" title="输入模式：即打开文本按键（a,i,o)。即可进入编辑模式。"></a>输入模式：即打开文本按键（a,i,o)。即可进入编辑模式。</h3></li>
 </ul>
 ]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
   </entry>
 </search>
