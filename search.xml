@@ -1,80 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>markdown</title>
-    <url>/2022/08/19/markdown/</url>
-    <content><![CDATA[<p><img src="https://gcore.jsdelivr.net/gh/zsxwz/tuchuang2@latest/2022/08/19/67a1d77a85ead3e68ff1d9134990e53e.png"></p>
-<h1 id="markdown的简单语法"><a href="#markdown的简单语法" class="headerlink" title="markdown的简单语法"></a>markdown的简单语法</h1><h2 id="列表格式"><a href="#列表格式" class="headerlink" title="列表格式"></a>列表格式</h2><p>列表格式也很常用，在 Markdown 中，你只需要在文字前面加上 - 就可以了，例如：</p>
-<blockquote>
-<p>-文本1<br>-文本2<br>-文本3</p>
-</blockquote>
-<p>如果你希望有序列表，<br>也可以在文字前面加上 1. 2. 3. 就可以了，例如：</p>
-<blockquote>
-<ol>
-<li>文本 </li>
-<li>文本 </li>
-<li>文本</li>
-</ol>
-</blockquote>
-<h3 id="注：-、1-和文本之间要保留一个字符的空格。"><a href="#注：-、1-和文本之间要保留一个字符的空格。" class="headerlink" title="注：-、1. 和文本之间要保留一个字符的空格。"></a>注：-、1. 和文本之间要保留一个字符的空格。</h3><h2 id="插入连接"><a href="#插入连接" class="headerlink" title="插入连接"></a>插入连接</h2><p>语法： [显示文本] (连接地址)例如：</p>
-<ul>
-<li>[小安的博客] (<a href="https://an-ding-s.github.io/">https://an-ding-s.github.io/</a>)</li>
-<li>插入图片同上，只是前面多加了个！的符号。</li>
-<li>例如:![] (<a href="https://gcore.jsdelivr.net/gh/zsxwz/tuchuang2@latest/2022/08/19/67a1d77a85ead3e68ff1d9134990e53e.png">https://gcore.jsdelivr.net/gh/zsxwz/tuchuang2@latest/2022/08/19/67a1d77a85ead3e68ff1d9134990e53e.png</a>)</li>
-<li>此图片为图床连接。</li>
-<li>| <span id="more"></span></li>
-</ul>
-<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p>在 Markdown 中，你只需要在文本前面加上 # 即可，你还可以增加二级标题、三级标题、四级标题、五级标题和六级标题，总共六级，只需要增加 # 即可，标题字号相应降低。例如：</p>
-<blockquote>
-<p><em>#为1级|##为2级|###为3级| …..</em></p>
-</blockquote>
-<ul>
-<li>注意：# 后面要加空格</li>
-</ul>
-<h2 id="粗体和斜体"><a href="#粗体和斜体" class="headerlink" title="粗体和斜体"></a>粗体和斜体</h2><p>Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就是粗体的语法，用一个 * 包含一段文本就是斜体的语法。例如：</p>
-<ul>
-<li>*内容 *</li>
-<li>** 内容 **</li>
-<li>此时的*后面没有空格</li>
-</ul>
-<h2 id="代办清单To-do-List"><a href="#代办清单To-do-List" class="headerlink" title="代办清单To-do List"></a>代办清单To-do List</h2><ul>
-<li><p>代码命令：- ［］为未办事项或者项目。-［×］为已办项目或者事项。</p>
-</li>
-<li><p>符号后面加空格。</p>
-</li>
-<li><p>这个X是英文的x，并非符号。</p>
-</li>
-<li><h2 id="注意：文章中所有符号均为英文键盘下的符号。"><a href="#注意：文章中所有符号均为英文键盘下的符号。" class="headerlink" title="注意：文章中所有符号均为英文键盘下的符号。"></a>注意：文章中所有符号均为英文键盘下的符号。</h2></li>
-<li><p>今天先更新这么多。手机码字累！</p>
-</li>
-<li></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>冰箱误冻后导致手机不开机</title>
-    <url>/2022/08/21/%E5%86%B0%E7%AE%B1%E8%AF%AF%E5%86%BB%E5%90%8E%E5%AF%BC%E8%87%B4%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%BC%80%E6%9C%BA/</url>
-    <content><![CDATA[<h4 id="所谓冰箱，就是Android手机中一个冻结一些不常用的或者经常自动唤醒的app，以达到手机省电的目的的app"><a href="#所谓冰箱，就是Android手机中一个冻结一些不常用的或者经常自动唤醒的app，以达到手机省电的目的的app" class="headerlink" title="所谓冰箱，就是Android手机中一个冻结一些不常用的或者经常自动唤醒的app，以达到手机省电的目的的app"></a><em>所谓冰箱，就是Android手机中一个冻结一些不常用的或者经常自动唤醒的app，以达到手机省电的目的的app</em></h4><ul>
-<li><p>昨天闲着没事儿，（干活把腰闪了）用冰箱把：应用商店，应用包管理程序，应用程序扩展管理，这三个给冻结了。当时没事儿，只是添加到冻结列表里面，我手机设置了自动开关机。第二天睡醒一看手机，直接进入第三方rec 。完了。开不了机了。废话不多说…..</p>
-<span id="more"></span></li>
-<li><p>在进入第三方rec后，选择文件管理，找到该路径&#x2F;data&#x2F;system&#x2F;users&#x2F;0&#x2F;，将里面的”package-restrictions.xml“这个文件删除，然后重启，即成功开机，开机后，再将这三个程序移除冰冻列表。</p>
-</li>
-<li><p>而后打开app冰冻列表，将后面有对勾的app在重新点击一下,即重新生成列表（其实就是你之前添加的冰冻列表，只是把那个文件删除后，没有了冰冻列表）。</p>
-</li>
-<li><p>其实还有很多方法，这个是比较简单的。其他的办法可以网搜。</p>
-</li>
-<li><p>问题解决，扒一会儿，腰疼了！</p>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>玩机技巧</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Linux语法</title>
     <url>/2022/08/24/Linux%E8%AF%AD%E6%B3%95/</url>
     <content><![CDATA[<ul>
@@ -153,6 +79,80 @@
 ]]></content>
       <tags>
         <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>markdown</title>
+    <url>/2022/08/19/markdown/</url>
+    <content><![CDATA[<p><img src="https://gcore.jsdelivr.net/gh/zsxwz/tuchuang2@latest/2022/08/19/67a1d77a85ead3e68ff1d9134990e53e.png"></p>
+<h1 id="markdown的简单语法"><a href="#markdown的简单语法" class="headerlink" title="markdown的简单语法"></a>markdown的简单语法</h1><h2 id="列表格式"><a href="#列表格式" class="headerlink" title="列表格式"></a>列表格式</h2><p>列表格式也很常用，在 Markdown 中，你只需要在文字前面加上 - 就可以了，例如：</p>
+<blockquote>
+<p>-文本1<br>-文本2<br>-文本3</p>
+</blockquote>
+<p>如果你希望有序列表，<br>也可以在文字前面加上 1. 2. 3. 就可以了，例如：</p>
+<blockquote>
+<ol>
+<li>文本 </li>
+<li>文本 </li>
+<li>文本</li>
+</ol>
+</blockquote>
+<h3 id="注：-、1-和文本之间要保留一个字符的空格。"><a href="#注：-、1-和文本之间要保留一个字符的空格。" class="headerlink" title="注：-、1. 和文本之间要保留一个字符的空格。"></a>注：-、1. 和文本之间要保留一个字符的空格。</h3><h2 id="插入连接"><a href="#插入连接" class="headerlink" title="插入连接"></a>插入连接</h2><p>语法： [显示文本] (连接地址)例如：</p>
+<ul>
+<li>[小安的博客] (<a href="https://an-ding-s.github.io/">https://an-ding-s.github.io/</a>)</li>
+<li>插入图片同上，只是前面多加了个！的符号。</li>
+<li>例如:![] (<a href="https://gcore.jsdelivr.net/gh/zsxwz/tuchuang2@latest/2022/08/19/67a1d77a85ead3e68ff1d9134990e53e.png">https://gcore.jsdelivr.net/gh/zsxwz/tuchuang2@latest/2022/08/19/67a1d77a85ead3e68ff1d9134990e53e.png</a>)</li>
+<li>此图片为图床连接。</li>
+<li>| <span id="more"></span></li>
+</ul>
+<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p>在 Markdown 中，你只需要在文本前面加上 # 即可，你还可以增加二级标题、三级标题、四级标题、五级标题和六级标题，总共六级，只需要增加 # 即可，标题字号相应降低。例如：</p>
+<blockquote>
+<p><em>#为1级|##为2级|###为3级| …..</em></p>
+</blockquote>
+<ul>
+<li>注意：# 后面要加空格</li>
+</ul>
+<h2 id="粗体和斜体"><a href="#粗体和斜体" class="headerlink" title="粗体和斜体"></a>粗体和斜体</h2><p>Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就是粗体的语法，用一个 * 包含一段文本就是斜体的语法。例如：</p>
+<ul>
+<li>*内容 *</li>
+<li>** 内容 **</li>
+<li>此时的*后面没有空格</li>
+</ul>
+<h2 id="代办清单To-do-List"><a href="#代办清单To-do-List" class="headerlink" title="代办清单To-do List"></a>代办清单To-do List</h2><ul>
+<li><p>代码命令：- ［］为未办事项或者项目。-［×］为已办项目或者事项。</p>
+</li>
+<li><p>符号后面加空格。</p>
+</li>
+<li><p>这个X是英文的x，并非符号。</p>
+</li>
+<li><h2 id="注意：文章中所有符号均为英文键盘下的符号。"><a href="#注意：文章中所有符号均为英文键盘下的符号。" class="headerlink" title="注意：文章中所有符号均为英文键盘下的符号。"></a>注意：文章中所有符号均为英文键盘下的符号。</h2></li>
+<li><p>今天先更新这么多。手机码字累！</p>
+</li>
+<li></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>冰箱误冻后导致手机不开机</title>
+    <url>/2022/08/21/%E5%86%B0%E7%AE%B1%E8%AF%AF%E5%86%BB%E5%90%8E%E5%AF%BC%E8%87%B4%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%BC%80%E6%9C%BA/</url>
+    <content><![CDATA[<h4 id="所谓冰箱，就是Android手机中一个冻结一些不常用的或者经常自动唤醒的app，以达到手机省电的目的的app"><a href="#所谓冰箱，就是Android手机中一个冻结一些不常用的或者经常自动唤醒的app，以达到手机省电的目的的app" class="headerlink" title="所谓冰箱，就是Android手机中一个冻结一些不常用的或者经常自动唤醒的app，以达到手机省电的目的的app"></a><em>所谓冰箱，就是Android手机中一个冻结一些不常用的或者经常自动唤醒的app，以达到手机省电的目的的app</em></h4><ul>
+<li><p>昨天闲着没事儿，（干活把腰闪了）用冰箱把：应用商店，应用包管理程序，应用程序扩展管理，这三个给冻结了。当时没事儿，只是添加到冻结列表里面，我手机设置了自动开关机。第二天睡醒一看手机，直接进入第三方rec 。完了。开不了机了。废话不多说…..</p>
+<span id="more"></span></li>
+<li><p>在进入第三方rec后，选择文件管理，找到该路径&#x2F;data&#x2F;system&#x2F;users&#x2F;0&#x2F;，将里面的”package-restrictions.xml“这个文件删除，然后重启，即成功开机，开机后，再将这三个程序移除冰冻列表。</p>
+</li>
+<li><p>而后打开app冰冻列表，将后面有对勾的app在重新点击一下,即重新生成列表（其实就是你之前添加的冰冻列表，只是把那个文件删除后，没有了冰冻列表）。</p>
+</li>
+<li><p>其实还有很多方法，这个是比较简单的。其他的办法可以网搜。</p>
+</li>
+<li><p>问题解决，扒一会儿，腰疼了！</p>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>玩机技巧</tag>
       </tags>
   </entry>
   <entry>
